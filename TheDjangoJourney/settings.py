@@ -26,7 +26,7 @@ MEDIA_DIR = os.path.join(BASE_DIR, 'TheDjangoJourney/media')
 SECRET_KEY = 'nub*0wfo-j-s*twco0g5%807n-*=m$1(enjz#z4$y)(ytjgfx-'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
